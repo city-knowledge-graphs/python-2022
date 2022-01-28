@@ -21,7 +21,7 @@ def queryRemoteGraph(endpoint_url, query, attempts=3):
         results = sparqlw.query().convert()
         
         #Prints JSON file
-        print(results)
+        #print(results)
                    
     
         for result in results["results"]["bindings"]:
@@ -48,14 +48,10 @@ def queryRemoteGraph(endpoint_url, query, attempts=3):
 dbpedia_endpoint = "http://dbpedia.org/sparql"
 dbpedia_query = "SELECT DISTINCT ?x WHERE { <http://dbpedia.org/resource/Chicago_Bulls> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?x . }"
 
-#See more examples here: https://www.nobelprize.org/about/linked-data-examples/
-nobelprize_endpoint = "http://data.nobelprize.org/sparql"
-nobelprize_query = "SELECT DISTINCT ?x WHERE { ?laur <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.nobelprize.org/terms/Laureate> . ?laur <http://www.w3.org/2000/01/rdf-schema#label> ?x . ?laur <http://xmlns.com/foaf/0.1/gender> \"female\" . }"
 
 print("\nQuerying DBPedia Knowledge Graph (types of Chicago Bulls)")
 queryRemoteGraph(dbpedia_endpoint, dbpedia_query)
 
-print("\nQuerying Nobel Prize Knowledge Graph (Female laureates):")
-queryRemoteGraph(nobelprize_endpoint, nobelprize_query)
 
+print("\nTests successful!!")
 

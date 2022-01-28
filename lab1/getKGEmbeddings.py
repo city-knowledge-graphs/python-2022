@@ -24,3 +24,4 @@ def getEmbeddings():
 #Query pre-computed knowledge graph embeddings
 getEmbeddings()
 
+print("\nTests successful!!")
