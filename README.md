@@ -4,7 +4,7 @@
 - **Laboratory 2**: Loading OWL ontologies programmatically.
 
 
-### Libraries
+### Key libraries
 - [Owlready2](https://owlready2.readthedocs.io/en/latest/intro.html)
 - [SPARQLWrapper](https://github.com/RDFLib/sparqlwrapper)
 - [RDFlib](https://rdflib.readthedocs.io/en/stable/)
