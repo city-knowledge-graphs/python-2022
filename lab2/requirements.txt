@@ -1,0 +1,6 @@
+#Jupyter notebook
+jupyter==1.0.0
+#Ontology access
+Owlready2==0.36
+#Required this version instead of 3.0 by owlready
+pyparsing==2.4.7
