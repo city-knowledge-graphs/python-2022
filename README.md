@@ -2,6 +2,7 @@
 
 - **Laboratory 1**: Set up.
 - **Laboratory 2**: Loading OWL ontologies programmatically.
+- **Laboratory 3**: Creating (small) RDF-based Knowledge Graphs
 
 
 ### Key libraries
