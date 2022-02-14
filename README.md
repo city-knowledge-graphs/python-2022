@@ -8,6 +8,7 @@
 - [Owlready2](https://owlready2.readthedocs.io/en/latest/intro.html)
 - [SPARQLWrapper](https://github.com/RDFLib/sparqlwrapper)
 - [RDFlib](https://rdflib.readthedocs.io/en/stable/)
+- [Pandas](https://pandas.pydata.org/)
 - [Jupyter notebook](https://jupyter-notebook.readthedocs.io/en/latest/)
 
 
