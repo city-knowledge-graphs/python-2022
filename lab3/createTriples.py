@@ -52,7 +52,7 @@ def createTriples():
     
     
     
-    print("Saving graph to 'lab3_example.ttl':")
+    print("Saving graph to 'lab3_example_rdflib.ttl':")
     
     print(g.serialize(format="turtle").decode("utf-8"))    
     g.serialize(destination='lab3_example_rdflib.ttl', format='ttl')

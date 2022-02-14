@@ -14,12 +14,12 @@
     foaf:givenname "Ernesto" ;
     foaf:homepage <https://www.city.ac.uk/people/academics/ernesto-jimenez-ruiz> ;
     foaf:knows [ a foaf:Person ;
-            foaf:mbox <mailto:a.slingsby@city.ac.uk> ;
-            foaf:name "Aidan Slingsby" ],
-        [ a foaf:Person ;
             rdfs:seeAlso <http://www.cs.rpi.edu/~hendler/foaf.rdf> ;
             foaf:mbox <mailto:james@cs.rpi.edu> ;
-            foaf:name "James Hendler" ] ;
+            foaf:name "James Hendler" ],
+        [ a foaf:Person ;
+            foaf:mbox <mailto:a.slingsby@city.ac.uk> ;
+            foaf:name "Aidan Slingsby" ] ;
     foaf:mbox <mailto:ernesto.jimenez-ruiz@city.ac.uk> ;
     foaf:name "Ernesto Jimenez-Ruiz" ;
     foaf:phone <tel:+44-(0)20-7040-0202> ;
