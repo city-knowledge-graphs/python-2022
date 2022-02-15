@@ -9,15 +9,6 @@ from owlready2 import *
 def getClasses(onto):        
     return onto.classes()
     
-def getDataProperties(self):        
-    return onto.data_properties()
-    
-def getObjectProperties(self):        
-    return onto.object_properties()
-    
-def getIndividuals(self):        
-    return onto.individuals()
-
 
 
 def loadOntology(urionto):
