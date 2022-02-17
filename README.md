@@ -3,6 +3,8 @@
 - **Laboratory 1**: Set up.
 - **Laboratory 2**: Loading OWL ontologies programmatically.
 - **Laboratory 3**: Creating (small) RDF-based Knowledge Graphs
+- **Laboratory 4**: Querying RDF-basedKnowledge Graphs via SPARQL 1.0
+
 
 
 ### Key libraries
