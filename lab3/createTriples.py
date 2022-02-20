@@ -19,7 +19,7 @@ def createTriples():
     
     #Special namspaces to create  
     city = Namespace("http://www.example.org/university/london/city#")
-    dbpo = Namespace("https://dbpedia.org/ontology/")
+    dbpo = Namespace("http://dbpedia.org/ontology/")
        
     #Prefixes
     g.bind("foaf", FOAF) #FOAF is given as defaulty namespace

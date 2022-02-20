@@ -50,3 +50,4 @@ loadTriplesAndSave()
 
 #Load triples and save graph
 loadTriplesAndSaveToTargetFormat("ernesto_foaf.rdf", "xml", "ttl")
+loadTriplesAndSaveToTargetFormat("solution/Solution_Task3.1.ttl", "ttl", "xml")
