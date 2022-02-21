@@ -17,18 +17,21 @@ def Solution_Task3_4():
     #Empty graph
     g = Graph()
     
-    #Special namspaces to create  
+    #Special namspaces to create
+    #The URI created for city is new created as example   
     city = Namespace("http://www.example.org/university/london/city#")
+    
+    #These URI namespaces exists in the DBPedia KG
     dbo = Namespace("http://dbpedia.org/ontology/")
     dbp = Namespace("http://dbpedia.org/property/")
     dbr = Namespace("http://dbpedia.org/resource/")
        
     #Prefixes
-    g.bind("foaf", FOAF) #FOAF is given as defaulty namespace
-    g.bind("city", city) #city is a newly created namespace
-    g.bind("dbo", dbo) #dbpo is a newly created namespace
-    g.bind("dbp", dbp) #dbpo is a newly created namespace
-    g.bind("dbr", dbr) #dbpo is a newly created namespace 
+    g.bind("foaf", FOAF) #FOAF is given as default rdflib Namespace
+    g.bind("city", city) #city is a newly created rdflib Namespace
+    g.bind("dbo", dbo) #dbo is a newly created rdflib Namespace
+    g.bind("dbp", dbp) #dbp is a newly created rdflib Namespace
+    g.bind("dbr", dbr) #dbr is a newly created rdflib Namespace 
     
     #These lines are equivalent:    
     #ernesto = URIRef("http://www.example.org/university/london/city#ernesto")
