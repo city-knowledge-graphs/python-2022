@@ -7,6 +7,8 @@
 @prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix qudt: <http://qudt.org/schema/qudt/> .
+@prefix unit: <http://qudt.org/vocab/unit/> .
 
 
 # Blank node syntax
@@ -29,4 +31,19 @@ city:ernesto  a               foaf:Person ;
         foaf:givenname        "Ernesto" ;
         dbo:birthPlace        dbr:Castellón_de_la_Plana ;
         dbp:employer          dbr:City\,_University_of_London ;
-        dbo:nationality		  dbr:Spain .
+        dbo:nationality		  dbr:Spain ;
+        dbp:weight			  _:bnW ;
+        dbp:height			  city:height_ernesto .	  
+
+# Instead of using reification and alternative solution is using n-ary relationhips.
+# In this case we would like to associate a unit (i.e. Kg) to a measurement (70).
+# This solutions is also common, but note that we do not have a direct triple with the value
+# e.g., <city:ernesto dbp:weight   "70"^^xsd:integer> instead, dbp:weight points to an 
+# object (the blank node _:bnW or the URI city:height_ernesto) 
+# that contains the unit and value. 
+_:bnW	qudt:hasUnit 		  unit:KiloGM ;
+      	rdf:value			  "70"^^xsd:integer .
+      	
+city:height_ernesto		qudt:hasUnit	unit:CentiM ;
+						rdf:value		"168"^^xsd:integer .
+        
