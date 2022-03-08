@@ -13,4 +13,3 @@ rdflib==5.0.0
 pandas==1.2.4
 #Reasoning
 owlrl==5.2.1
-rdflib-jsonld=
