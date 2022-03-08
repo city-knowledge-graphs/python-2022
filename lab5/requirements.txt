@@ -13,3 +13,5 @@ rdflib==5.0.0
 pandas==1.2.4
 #Levenshtein String similarity 
 python-Levenshtein==0.12.2
+#Reasoning
+owlrl==5.2.1
