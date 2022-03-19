@@ -1,0 +1,4 @@
+SELECT ?pet ?owner where {
+?pet a tto:Animal .
+OPTIONAL {?owner tto:pet ?pet}
+}
