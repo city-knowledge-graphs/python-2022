@@ -18,11 +18,6 @@ def queryLocalGraph(ontology_file, format_ontology, data_file, format_data, quer
     
     print("Loaded '" + str(len(g)) + "' triples.")
     
-    #Performs OWL 2 RL  reasoning
-    owlrl.DeductiveClosure(owlrl.OWLRL_Semantics, axiomatic_triples=True, datatype_axioms=False).expand(g)
-    
-    print("After inference rules: '" + str(len(g)) + "' triples.")
-    
         
     #for s, p, o in g:
     #    print((s.n3(), p.n3(), o.n3()))
@@ -54,8 +49,8 @@ def queryLocalGraph(ontology_file, format_ontology, data_file, format_data, quer
 
 #Script
 test="playground"
-test="world-cities"
-test="nobel-prizes" 
+#test="world-cities"
+#test="nobel-prizes" 
 
 
 if test=="playground":
