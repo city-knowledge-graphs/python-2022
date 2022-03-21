@@ -6,6 +6,7 @@
 - **Laboratory 4**: Querying RDF-basedKnowledge Graphs via SPARQL 1.0
 - **Laboratory 5**: Exposing Tabular Data as an RDF-based Knowledge Graph
 - **Laboratory 6**: Reasoning with RDFS Semantics and OWL 2 RL
+- **Laboratory 7**: SPARQL 1.1 and GraphDB
 
 
 ### Key libraries
