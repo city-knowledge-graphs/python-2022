@@ -57,7 +57,6 @@ def updateLocalGraph():
 
 
     ##Update labels
-    ## Delete triples
     query_update_labels = """
        PREFIX ttr: <http://example.org/tuto/resource#>\n
        PREFIX tto: <http://example.org/tuto/ontology#>\n
@@ -76,11 +75,6 @@ def updateLocalGraph():
     #Save new KG
     file_output = dataset.replace(".ttl", "-update-labels.ttl")
     g.serialize(destination=file_output, format='ttl')
-
-
-                
-                
-
     
 
 
