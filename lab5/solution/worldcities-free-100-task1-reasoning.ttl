@@ -159,7 +159,7 @@ owl:someValuesFrom owl:sameAs owl:someValuesFrom .
 owl:versionInfo a owl:AnnotationProperty ;
     owl:sameAs owl:versionInfo .
 
-lab5:baoding a _:ub1bL150C26,
+lab5:baoding a _:ub10bL150C26,
         dbo:City,
         lab5:City,
         owl:Thing ;
@@ -173,7 +173,7 @@ lab5:baoding a _:ub1bL150C26,
     lab5:population "10700000"^^xsd:long ;
     owl:sameAs lab5:baoding .
 
-lab5:bijie a _:ub1bL150C26,
+lab5:bijie a _:ub10bL150C26,
         dbo:City,
         lab5:City,
         owl:Thing ;
@@ -187,7 +187,7 @@ lab5:bijie a _:ub1bL150C26,
     lab5:population "6537498"^^xsd:long ;
     owl:sameAs lab5:bijie .
 
-lab5:cangzhou a _:ub1bL150C26,
+lab5:cangzhou a _:ub10bL150C26,
         dbo:City,
         lab5:City,
         owl:Thing ;
@@ -201,7 +201,7 @@ lab5:cangzhou a _:ub1bL150C26,
     lab5:population "6800000"^^xsd:long ;
     owl:sameAs lab5:cangzhou .
 
-lab5:chicago a _:ub1bL150C26,
+lab5:chicago a _:ub10bL150C26,
         dbo:City,
         lab5:City,
         owl:Thing ;
@@ -215,7 +215,7 @@ lab5:chicago a _:ub1bL150C26,
     lab5:population "8604203"^^xsd:long ;
     owl:sameAs lab5:chicago .
 
-lab5:fuyang a _:ub1bL150C26,
+lab5:fuyang a _:ub10bL150C26,
         dbo:City,
         lab5:City,
         owl:Thing ;
@@ -229,7 +229,7 @@ lab5:fuyang a _:ub1bL150C26,
     lab5:population "8360000"^^xsd:long ;
     owl:sameAs lab5:fuyang .
 
-lab5:handan a _:ub1bL150C26,
+lab5:handan a _:ub10bL150C26,
         dbo:City,
         lab5:City,
         owl:Thing ;
@@ -243,7 +243,7 @@ lab5:handan a _:ub1bL150C26,
     lab5:population "8499000"^^xsd:long ;
     owl:sameAs lab5:handan .
 
-lab5:hengyang a _:ub1bL150C26,
+lab5:hengyang a _:ub10bL150C26,
         dbo:City,
         lab5:City,
         owl:Thing ;
@@ -257,7 +257,7 @@ lab5:hengyang a _:ub1bL150C26,
     lab5:population "7148344"^^xsd:long ;
     owl:sameAs lab5:hengyang .
 
-lab5:jining a _:ub1bL150C26,
+lab5:jining a _:ub10bL150C26,
         dbo:City,
         lab5:City,
         owl:Thing ;
@@ -271,7 +271,7 @@ lab5:jining a _:ub1bL150C26,
     lab5:population "8023000"^^xsd:long ;
     owl:sameAs lab5:jining .
 
-lab5:linyi a _:ub1bL150C26,
+lab5:linyi a _:ub10bL150C26,
         dbo:City,
         lab5:City,
         owl:Thing ;
@@ -285,7 +285,7 @@ lab5:linyi a _:ub1bL150C26,
     lab5:population "10820000"^^xsd:long ;
     owl:sameAs lab5:linyi .
 
-lab5:los_angeles a _:ub1bL150C26,
+lab5:los_angeles a _:ub10bL150C26,
         dbo:City,
         lab5:City,
         owl:Thing ;
@@ -299,7 +299,7 @@ lab5:los_angeles a _:ub1bL150C26,
     lab5:population "12750807"^^xsd:long ;
     owl:sameAs lab5:los_angeles .
 
-lab5:luoyang a _:ub1bL150C26,
+lab5:luoyang a _:ub10bL150C26,
         dbo:City,
         lab5:City,
         owl:Thing ;
@@ -313,7 +313,7 @@ lab5:luoyang a _:ub1bL150C26,
     lab5:population "6549941"^^xsd:long ;
     owl:sameAs lab5:luoyang .
 
-lab5:miami a _:ub1bL150C26,
+lab5:miami a _:ub10bL150C26,
         dbo:City,
         lab5:City,
         owl:Thing ;
@@ -327,7 +327,7 @@ lab5:miami a _:ub1bL150C26,
     lab5:population "6445545"^^xsd:long ;
     owl:sameAs lab5:miami .
 
-lab5:nanyang a _:ub1bL150C26,
+lab5:nanyang a _:ub10bL150C26,
         dbo:City,
         lab5:City,
         owl:Thing ;
@@ -341,7 +341,7 @@ lab5:nanyang a _:ub1bL150C26,
     lab5:population "12010000"^^xsd:long ;
     owl:sameAs lab5:nanyang .
 
-lab5:new_york a _:ub1bL150C26,
+lab5:new_york a _:ub10bL150C26,
         dbo:City,
         lab5:City,
         owl:Thing ;
@@ -355,7 +355,7 @@ lab5:new_york a _:ub1bL150C26,
     lab5:population "18713220"^^xsd:long ;
     owl:sameAs lab5:new_york .
 
-lab5:oxford a _:ub1bL150C26,
+lab5:oxford a _:ub10bL150C26,
         dbo:City,
         owl:NamedIndividual,
         owl:Thing ;
@@ -368,7 +368,7 @@ lab5:oxford a _:ub1bL150C26,
     lab5:name_ascii "Oxford" ;
     owl:sameAs lab5:oxford .
 
-lab5:pune a _:ub1bL150C26,
+lab5:pune a _:ub10bL150C26,
         dbo:City,
         lab5:City,
         owl:Thing ;
@@ -382,7 +382,7 @@ lab5:pune a _:ub1bL150C26,
     lab5:population "7764000"^^xsd:long ;
     owl:sameAs lab5:pune .
 
-lab5:shaoyang a _:ub1bL150C26,
+lab5:shaoyang a _:ub10bL150C26,
         dbo:City,
         lab5:City,
         owl:Thing ;
@@ -396,7 +396,7 @@ lab5:shaoyang a _:ub1bL150C26,
     lab5:population "7071000"^^xsd:long ;
     owl:sameAs lab5:shaoyang .
 
-lab5:tangshan a _:ub1bL150C26,
+lab5:tangshan a _:ub10bL150C26,
         dbo:City,
         lab5:City,
         owl:Thing ;
@@ -410,7 +410,7 @@ lab5:tangshan a _:ub1bL150C26,
     lab5:population "7100000"^^xsd:long ;
     owl:sameAs lab5:tangshan .
 
-lab5:weifang a _:ub1bL150C26,
+lab5:weifang a _:ub10bL150C26,
         dbo:City,
         lab5:City,
         owl:Thing ;
@@ -424,7 +424,7 @@ lab5:weifang a _:ub1bL150C26,
     lab5:population "9373000"^^xsd:long ;
     owl:sameAs lab5:weifang .
 
-lab5:xinyang a _:ub1bL150C26,
+lab5:xinyang a _:ub10bL150C26,
         dbo:City,
         lab5:City,
         owl:Thing ;
@@ -438,7 +438,7 @@ lab5:xinyang a _:ub1bL150C26,
     lab5:population "6634000"^^xsd:long ;
     owl:sameAs lab5:xinyang .
 
-lab5:yantai a _:ub1bL150C26,
+lab5:yantai a _:ub10bL150C26,
         dbo:City,
         lab5:City,
         owl:Thing ;
@@ -452,7 +452,7 @@ lab5:yantai a _:ub1bL150C26,
     lab5:population "6516900"^^xsd:long ;
     owl:sameAs lab5:yantai .
 
-lab5:zhumadian a _:ub1bL150C26,
+lab5:zhumadian a _:ub10bL150C26,
         dbo:City,
         lab5:City,
         owl:Thing ;
@@ -466,7 +466,7 @@ lab5:zhumadian a _:ub1bL150C26,
     lab5:population "7640000"^^xsd:long ;
     owl:sameAs lab5:zhumadian .
 
-lab5:zunyi a _:ub1bL150C26,
+lab5:zunyi a _:ub10bL150C26,
         dbo:City,
         lab5:City,
         owl:Thing ;
@@ -2024,8 +2024,8 @@ dbo:populationTotal a owl:DatatypeProperty ;
     owl:equivalentProperty dbo:populationTotal ;
     owl:sameAs dbo:populationTotal .
 
-lab5:ahmadabad a _:ub1bL150C26,
-        _:ub1bL194C50,
+lab5:ahmadabad a _:ub10bL150C26,
+        _:ub10bL194C50,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -2043,8 +2043,8 @@ lab5:ahmadabad a _:ub1bL150C26,
     lab5:population "7410000"^^xsd:long ;
     owl:sameAs lab5:ahmadabad .
 
-lab5:bangalore a _:ub1bL150C26,
-        _:ub1bL184C49,
+lab5:bangalore a _:ub10bL150C26,
+        _:ub10bL184C49,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -2062,8 +2062,8 @@ lab5:bangalore a _:ub1bL150C26,
     lab5:population "13707000"^^xsd:long ;
     owl:sameAs lab5:bangalore .
 
-lab5:bangkok a _:ub1bL150C26,
-        _:ub1bL174C34,
+lab5:bangkok a _:ub10bL150C26,
+        _:ub10bL174C34,
         dbo:City,
         lab5:CapitalCity,
         lab5:City,
@@ -2079,8 +2079,8 @@ lab5:bangkok a _:ub1bL150C26,
     lab5:population "17066000"^^xsd:long ;
     owl:sameAs lab5:bangkok .
 
-lab5:beijing a _:ub1bL150C26,
-        _:ub1bL174C34,
+lab5:beijing a _:ub10bL150C26,
+        _:ub10bL174C34,
         dbo:City,
         lab5:CapitalCity,
         lab5:City,
@@ -2096,8 +2096,8 @@ lab5:beijing a _:ub1bL150C26,
     lab5:population "19433000"^^xsd:long ;
     owl:sameAs lab5:beijing .
 
-lab5:bogota a _:ub1bL150C26,
-        _:ub1bL174C34,
+lab5:bogota a _:ub10bL150C26,
+        _:ub10bL174C34,
         dbo:City,
         lab5:CapitalCity,
         lab5:City,
@@ -2113,8 +2113,8 @@ lab5:bogota a _:ub1bL150C26,
     lab5:population "9464000"^^xsd:long ;
     owl:sameAs lab5:bogota .
 
-lab5:buenos_aires a _:ub1bL150C26,
-        _:ub1bL174C34,
+lab5:buenos_aires a _:ub10bL150C26,
+        _:ub10bL174C34,
         dbo:City,
         lab5:CapitalCity,
         lab5:City,
@@ -2130,8 +2130,8 @@ lab5:buenos_aires a _:ub1bL150C26,
     lab5:population "16157000"^^xsd:long ;
     owl:sameAs lab5:buenos_aires .
 
-lab5:cairo a _:ub1bL150C26,
-        _:ub1bL174C34,
+lab5:cairo a _:ub10bL150C26,
+        _:ub10bL174C34,
         dbo:City,
         lab5:CapitalCity,
         lab5:City,
@@ -2147,8 +2147,8 @@ lab5:cairo a _:ub1bL150C26,
     lab5:population "19372000"^^xsd:long ;
     owl:sameAs lab5:cairo .
 
-lab5:changchun a _:ub1bL150C26,
-        _:ub1bL184C49,
+lab5:changchun a _:ub10bL150C26,
+        _:ub10bL184C49,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -2166,8 +2166,8 @@ lab5:changchun a _:ub1bL150C26,
     lab5:population "7674439"^^xsd:long ;
     owl:sameAs lab5:changchun .
 
-lab5:changsha a _:ub1bL150C26,
-        _:ub1bL184C49,
+lab5:changsha a _:ub10bL150C26,
+        _:ub10bL184C49,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -2185,8 +2185,8 @@ lab5:changsha a _:ub1bL150C26,
     lab5:population "7044118"^^xsd:long ;
     owl:sameAs lab5:changsha .
 
-lab5:chengdu a _:ub1bL150C26,
-        _:ub1bL184C49,
+lab5:chengdu a _:ub10bL150C26,
+        _:ub10bL184C49,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -2204,8 +2204,8 @@ lab5:chengdu a _:ub1bL150C26,
     lab5:population "11309000"^^xsd:long ;
     owl:sameAs lab5:chengdu .
 
-lab5:chennai a _:ub1bL150C26,
-        _:ub1bL184C49,
+lab5:chennai a _:ub10bL150C26,
+        _:ub10bL184C49,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -2223,8 +2223,8 @@ lab5:chennai a _:ub1bL150C26,
     lab5:population "11324000"^^xsd:long ;
     owl:sameAs lab5:chennai .
 
-lab5:chongqing a _:ub1bL150C26,
-        _:ub1bL184C49,
+lab5:chongqing a _:ub10bL150C26,
+        _:ub10bL184C49,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -2242,8 +2242,8 @@ lab5:chongqing a _:ub1bL150C26,
     lab5:population "7739000"^^xsd:long ;
     owl:sameAs lab5:chongqing .
 
-lab5:dar_es_salaam a _:ub1bL150C26,
-        _:ub1bL174C34,
+lab5:dar_es_salaam a _:ub10bL150C26,
+        _:ub10bL174C34,
         dbo:City,
         lab5:CapitalCity,
         lab5:City,
@@ -2259,8 +2259,8 @@ lab5:dar_es_salaam a _:ub1bL150C26,
     lab5:population "6698000"^^xsd:long ;
     owl:sameAs lab5:dar_es_salaam .
 
-lab5:delhi a _:ub1bL150C26,
-        _:ub1bL184C49,
+lab5:delhi a _:ub10bL150C26,
+        _:ub10bL184C49,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -2278,8 +2278,8 @@ lab5:delhi a _:ub1bL150C26,
     lab5:population "29617000"^^xsd:long ;
     owl:sameAs lab5:delhi .
 
-lab5:dhaka a _:ub1bL150C26,
-        _:ub1bL174C34,
+lab5:dhaka a _:ub10bL150C26,
+        _:ub10bL174C34,
         dbo:City,
         lab5:CapitalCity,
         lab5:City,
@@ -2295,8 +2295,8 @@ lab5:dhaka a _:ub1bL150C26,
     lab5:population "15443000"^^xsd:long ;
     owl:sameAs lab5:dhaka .
 
-lab5:dongguan a _:ub1bL150C26,
-        _:ub1bL194C50,
+lab5:dongguan a _:ub10bL150C26,
+        _:ub10bL194C50,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -2314,8 +2314,8 @@ lab5:dongguan a _:ub1bL150C26,
     lab5:population "7981000"^^xsd:long ;
     owl:sameAs lab5:dongguan .
 
-lab5:foshan a _:ub1bL150C26,
-        _:ub1bL194C50,
+lab5:foshan a _:ub10bL150C26,
+        _:ub10bL194C50,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -2333,8 +2333,8 @@ lab5:foshan a _:ub1bL150C26,
     lab5:population "7194311"^^xsd:long ;
     owl:sameAs lab5:foshan .
 
-lab5:ganzhou a _:ub1bL150C26,
-        _:ub1bL194C50,
+lab5:ganzhou a _:ub10bL150C26,
+        _:ub10bL194C50,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -2352,8 +2352,8 @@ lab5:ganzhou a _:ub1bL150C26,
     lab5:population "8677600"^^xsd:long ;
     owl:sameAs lab5:ganzhou .
 
-lab5:guangzhou a _:ub1bL150C26,
-        _:ub1bL184C49,
+lab5:guangzhou a _:ub10bL150C26,
+        _:ub10bL184C49,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -2371,8 +2371,8 @@ lab5:guangzhou a _:ub1bL150C26,
     lab5:population "20902000"^^xsd:long ;
     owl:sameAs lab5:guangzhou .
 
-lab5:hangzhou a _:ub1bL150C26,
-        _:ub1bL184C49,
+lab5:hangzhou a _:ub10bL150C26,
+        _:ub10bL184C49,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -2390,8 +2390,8 @@ lab5:hangzhou a _:ub1bL150C26,
     lab5:population "6446000"^^xsd:long ;
     owl:sameAs lab5:hangzhou .
 
-lab5:hanoi a _:ub1bL150C26,
-        _:ub1bL174C34,
+lab5:hanoi a _:ub10bL150C26,
+        _:ub10bL174C34,
         dbo:City,
         lab5:CapitalCity,
         lab5:City,
@@ -2408,10 +2408,10 @@ lab5:hanoi a _:ub1bL150C26,
     owl:sameAs lab5:hanoi .
 
 lab5:hasAdminCapital a owl:ObjectProperty ;
-    rdfs:domain _:ub1bL159C29,
+    rdfs:domain _:ub10bL159C29,
         dbo:Country,
         owl:Thing ;
-    rdfs:range _:ub1bL150C26,
+    rdfs:range _:ub10bL150C26,
         dbo:City,
         lab5:AdminCapitalCity,
         owl:Thing ;
@@ -2421,8 +2421,8 @@ lab5:hasAdminCapital a owl:ObjectProperty ;
     owl:inverseOf lab5:isAdminCapitalOf ;
     owl:sameAs lab5:hasAdminCapital .
 
-lab5:hefei a _:ub1bL150C26,
-        _:ub1bL184C49,
+lab5:hefei a _:ub10bL150C26,
+        _:ub10bL184C49,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -2440,8 +2440,8 @@ lab5:hefei a _:ub1bL150C26,
     lab5:population "7457027"^^xsd:long ;
     owl:sameAs lab5:hefei .
 
-lab5:heze a _:ub1bL150C26,
-        _:ub1bL194C50,
+lab5:heze a _:ub10bL150C26,
+        _:ub10bL194C50,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -2459,8 +2459,8 @@ lab5:heze a _:ub1bL150C26,
     lab5:population "8750000"^^xsd:long ;
     owl:sameAs lab5:heze .
 
-lab5:ho_chi_minh_city a _:ub1bL150C26,
-        _:ub1bL184C49,
+lab5:ho_chi_minh_city a _:ub10bL150C26,
+        _:ub10bL184C49,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -2478,8 +2478,8 @@ lab5:ho_chi_minh_city a _:ub1bL150C26,
     lab5:population "13312000"^^xsd:long ;
     owl:sameAs lab5:ho_chi_minh_city .
 
-lab5:huanggang a _:ub1bL150C26,
-        _:ub1bL194C50,
+lab5:huanggang a _:ub10bL150C26,
+        _:ub10bL194C50,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -2497,8 +2497,8 @@ lab5:huanggang a _:ub1bL150C26,
     lab5:population "6667000"^^xsd:long ;
     owl:sameAs lab5:huanggang .
 
-lab5:hyderabad a _:ub1bL150C26,
-        _:ub1bL184C49,
+lab5:hyderabad a _:ub10bL150C26,
+        _:ub10bL184C49,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -2530,8 +2530,8 @@ lab5:iso3code a owl:DatatypeProperty ;
     owl:equivalentProperty lab5:iso3code ;
     owl:sameAs lab5:iso3code .
 
-lab5:istanbul a _:ub1bL150C26,
-        _:ub1bL184C49,
+lab5:istanbul a _:ub10bL150C26,
+        _:ub10bL184C49,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -2549,8 +2549,8 @@ lab5:istanbul a _:ub1bL150C26,
     lab5:population "15154000"^^xsd:long ;
     owl:sameAs lab5:istanbul .
 
-lab5:jakarta a _:ub1bL150C26,
-        _:ub1bL174C34,
+lab5:jakarta a _:ub10bL150C26,
+        _:ub10bL174C34,
         dbo:City,
         lab5:CapitalCity,
         lab5:City,
@@ -2566,8 +2566,8 @@ lab5:jakarta a _:ub1bL150C26,
     lab5:population "34540000"^^xsd:long ;
     owl:sameAs lab5:jakarta .
 
-lab5:karachi a _:ub1bL150C26,
-        _:ub1bL184C49,
+lab5:karachi a _:ub10bL150C26,
+        _:ub10bL184C49,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -2585,8 +2585,8 @@ lab5:karachi a _:ub1bL150C26,
     lab5:population "14835000"^^xsd:long ;
     owl:sameAs lab5:karachi .
 
-lab5:khartoum a _:ub1bL150C26,
-        _:ub1bL174C34,
+lab5:khartoum a _:ub10bL150C26,
+        _:ub10bL174C34,
         dbo:City,
         lab5:CapitalCity,
         lab5:City,
@@ -2602,8 +2602,8 @@ lab5:khartoum a _:ub1bL150C26,
     lab5:population "7282000"^^xsd:long ;
     owl:sameAs lab5:khartoum .
 
-lab5:kinshasa a _:ub1bL150C26,
-        _:ub1bL174C34,
+lab5:kinshasa a _:ub10bL150C26,
+        _:ub10bL174C34,
         dbo:City,
         lab5:CapitalCity,
         lab5:City,
@@ -2619,8 +2619,8 @@ lab5:kinshasa a _:ub1bL150C26,
     lab5:population "13528000"^^xsd:long ;
     owl:sameAs lab5:kinshasa .
 
-lab5:kolkata a _:ub1bL150C26,
-        _:ub1bL184C49,
+lab5:kolkata a _:ub10bL150C26,
+        _:ub10bL184C49,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -2638,8 +2638,8 @@ lab5:kolkata a _:ub1bL150C26,
     lab5:population "17560000"^^xsd:long ;
     owl:sameAs lab5:kolkata .
 
-lab5:kuala_lumpur a _:ub1bL150C26,
-        _:ub1bL174C34,
+lab5:kuala_lumpur a _:ub10bL150C26,
+        _:ub10bL174C34,
         dbo:City,
         lab5:CapitalCity,
         lab5:City,
@@ -2655,8 +2655,8 @@ lab5:kuala_lumpur a _:ub1bL150C26,
     lab5:population "8285000"^^xsd:long ;
     owl:sameAs lab5:kuala_lumpur .
 
-lab5:kunming a _:ub1bL150C26,
-        _:ub1bL184C49,
+lab5:kunming a _:ub10bL150C26,
+        _:ub10bL184C49,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -2674,8 +2674,8 @@ lab5:kunming a _:ub1bL150C26,
     lab5:population "6250000"^^xsd:long ;
     owl:sameAs lab5:kunming .
 
-lab5:lagos a _:ub1bL150C26,
-        _:ub1bL194C50,
+lab5:lagos a _:ub10bL150C26,
+        _:ub10bL194C50,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -2693,8 +2693,8 @@ lab5:lagos a _:ub1bL150C26,
     lab5:population "15279000"^^xsd:long ;
     owl:sameAs lab5:lagos .
 
-lab5:lahore a _:ub1bL150C26,
-        _:ub1bL184C49,
+lab5:lahore a _:ub10bL150C26,
+        _:ub10bL184C49,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -2719,8 +2719,8 @@ lab5:latitude a owl:DatatypeProperty ;
     owl:equivalentProperty lab5:latitude ;
     owl:sameAs lab5:latitude .
 
-lab5:lima a _:ub1bL150C26,
-        _:ub1bL174C34,
+lab5:lima a _:ub10bL150C26,
+        _:ub10bL174C34,
         dbo:City,
         lab5:CapitalCity,
         lab5:City,
@@ -2736,8 +2736,8 @@ lab5:lima a _:ub1bL150C26,
     lab5:population "9848000"^^xsd:long ;
     owl:sameAs lab5:lima .
 
-lab5:london a _:ub1bL150C26,
-        _:ub1bL174C34,
+lab5:london a _:ub10bL150C26,
+        _:ub10bL174C34,
         dbo:City,
         lab5:CapitalCity,
         lab5:City,
@@ -2762,8 +2762,8 @@ lab5:longitude a owl:DatatypeProperty ;
     owl:equivalentProperty lab5:longitude ;
     owl:sameAs lab5:longitude .
 
-<http://www.semanticweb.org/ernesto/in3067-inm713/lab5/lu'an> a _:ub1bL150C26,
-        _:ub1bL194C50,
+<http://www.semanticweb.org/ernesto/in3067-inm713/lab5/lu'an> a _:ub10bL150C26,
+        _:ub10bL194C50,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -2781,8 +2781,8 @@ lab5:longitude a owl:DatatypeProperty ;
     lab5:population "6090000"^^xsd:long ;
     owl:sameAs <http://www.semanticweb.org/ernesto/in3067-inm713/lab5/lu'an> .
 
-lab5:luanda a _:ub1bL150C26,
-        _:ub1bL174C34,
+lab5:luanda a _:ub10bL150C26,
+        _:ub10bL174C34,
         dbo:City,
         lab5:CapitalCity,
         lab5:City,
@@ -2798,8 +2798,8 @@ lab5:luanda a _:ub1bL150C26,
     lab5:population "8417000"^^xsd:long ;
     owl:sameAs lab5:luanda .
 
-lab5:manila a _:ub1bL150C26,
-        _:ub1bL174C34,
+lab5:manila a _:ub10bL150C26,
+        _:ub10bL174C34,
         dbo:City,
         lab5:CapitalCity,
         lab5:City,
@@ -2815,8 +2815,8 @@ lab5:manila a _:ub1bL150C26,
     lab5:population "23088000"^^xsd:long ;
     owl:sameAs lab5:manila .
 
-lab5:maoming a _:ub1bL150C26,
-        _:ub1bL194C50,
+lab5:maoming a _:ub10bL150C26,
+        _:ub10bL194C50,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -2834,8 +2834,8 @@ lab5:maoming a _:ub1bL150C26,
     lab5:population "6706000"^^xsd:long ;
     owl:sameAs lab5:maoming .
 
-lab5:mexico_city a _:ub1bL150C26,
-        _:ub1bL174C34,
+lab5:mexico_city a _:ub10bL150C26,
+        _:ub10bL174C34,
         dbo:City,
         lab5:CapitalCity,
         lab5:City,
@@ -2851,8 +2851,8 @@ lab5:mexico_city a _:ub1bL150C26,
     lab5:population "20996000"^^xsd:long ;
     owl:sameAs lab5:mexico_city .
 
-lab5:moscow a _:ub1bL150C26,
-        _:ub1bL174C34,
+lab5:moscow a _:ub10bL150C26,
+        _:ub10bL174C34,
         dbo:City,
         lab5:CapitalCity,
         lab5:City,
@@ -2868,8 +2868,8 @@ lab5:moscow a _:ub1bL150C26,
     lab5:population "17125000"^^xsd:long ;
     owl:sameAs lab5:moscow .
 
-lab5:mumbai a _:ub1bL150C26,
-        _:ub1bL184C49,
+lab5:mumbai a _:ub10bL150C26,
+        _:ub10bL184C49,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -2887,8 +2887,8 @@ lab5:mumbai a _:ub1bL150C26,
     lab5:population "23355000"^^xsd:long ;
     owl:sameAs lab5:mumbai .
 
-lab5:nagoya a _:ub1bL150C26,
-        _:ub1bL184C49,
+lab5:nagoya a _:ub10bL150C26,
+        _:ub10bL184C49,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -2920,8 +2920,8 @@ lab5:name_ascii a owl:DatatypeProperty ;
     owl:equivalentProperty lab5:name_ascii ;
     owl:sameAs lab5:name_ascii .
 
-lab5:nanchong a _:ub1bL150C26,
-        _:ub1bL194C50,
+lab5:nanchong a _:ub10bL150C26,
+        _:ub10bL194C50,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -2939,8 +2939,8 @@ lab5:nanchong a _:ub1bL150C26,
     lab5:population "6183000"^^xsd:long ;
     owl:sameAs lab5:nanchong .
 
-lab5:nanjing a _:ub1bL150C26,
-        _:ub1bL184C49,
+lab5:nanjing a _:ub10bL150C26,
+        _:ub10bL184C49,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -2958,8 +2958,8 @@ lab5:nanjing a _:ub1bL150C26,
     lab5:population "7496000"^^xsd:long ;
     owl:sameAs lab5:nanjing .
 
-lab5:nanning a _:ub1bL150C26,
-        _:ub1bL184C49,
+lab5:nanning a _:ub10bL150C26,
+        _:ub10bL184C49,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -2977,8 +2977,8 @@ lab5:nanning a _:ub1bL150C26,
     lab5:population "7153300"^^xsd:long ;
     owl:sameAs lab5:nanning .
 
-lab5:nantong a _:ub1bL150C26,
-        _:ub1bL194C50,
+lab5:nantong a _:ub10bL150C26,
+        _:ub10bL194C50,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -2996,8 +2996,8 @@ lab5:nantong a _:ub1bL150C26,
     lab5:population "7282835"^^xsd:long ;
     owl:sameAs lab5:nantong .
 
-lab5:ningbo a _:ub1bL150C26,
-        _:ub1bL194C50,
+lab5:ningbo a _:ub10bL150C26,
+        _:ub10bL194C50,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -3015,8 +3015,8 @@ lab5:ningbo a _:ub1bL150C26,
     lab5:population "7639000"^^xsd:long ;
     owl:sameAs lab5:ningbo .
 
-lab5:onitsha a _:ub1bL150C26,
-        _:ub1bL194C50,
+lab5:onitsha a _:ub10bL150C26,
+        _:ub10bL194C50,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -3034,8 +3034,8 @@ lab5:onitsha a _:ub1bL150C26,
     lab5:population "7635000"^^xsd:long ;
     owl:sameAs lab5:onitsha .
 
-lab5:osaka a _:ub1bL150C26,
-        _:ub1bL184C49,
+lab5:osaka a _:ub10bL150C26,
+        _:ub10bL184C49,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -3053,8 +3053,8 @@ lab5:osaka a _:ub1bL150C26,
     lab5:population "14977000"^^xsd:long ;
     owl:sameAs lab5:osaka .
 
-lab5:paris a _:ub1bL150C26,
-        _:ub1bL174C34,
+lab5:paris a _:ub10bL150C26,
+        _:ub10bL174C34,
         dbo:City,
         lab5:CapitalCity,
         lab5:City,
@@ -3070,8 +3070,8 @@ lab5:paris a _:ub1bL150C26,
     lab5:population "11020000"^^xsd:long ;
     owl:sameAs lab5:paris .
 
-lab5:quanzhou a _:ub1bL150C26,
-        _:ub1bL194C50,
+lab5:quanzhou a _:ub10bL150C26,
+        _:ub10bL194C50,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -3089,8 +3089,8 @@ lab5:quanzhou a _:ub1bL150C26,
     lab5:population "6480000"^^xsd:long ;
     owl:sameAs lab5:quanzhou .
 
-lab5:rio_de_janeiro a _:ub1bL150C26,
-        _:ub1bL184C49,
+lab5:rio_de_janeiro a _:ub10bL150C26,
+        _:ub10bL184C49,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -3108,8 +3108,8 @@ lab5:rio_de_janeiro a _:ub1bL150C26,
     lab5:population "12272000"^^xsd:long ;
     owl:sameAs lab5:rio_de_janeiro .
 
-lab5:riyadh a _:ub1bL150C26,
-        _:ub1bL174C34,
+lab5:riyadh a _:ub10bL150C26,
+        _:ub10bL174C34,
         dbo:City,
         lab5:CapitalCity,
         lab5:City,
@@ -3125,8 +3125,8 @@ lab5:riyadh a _:ub1bL150C26,
     lab5:population "6881000"^^xsd:long ;
     owl:sameAs lab5:riyadh .
 
-lab5:santiago a _:ub1bL150C26,
-        _:ub1bL174C34,
+lab5:santiago a _:ub10bL150C26,
+        _:ub10bL174C34,
         dbo:City,
         lab5:CapitalCity,
         lab5:City,
@@ -3142,8 +3142,8 @@ lab5:santiago a _:ub1bL150C26,
     lab5:population "7007000"^^xsd:long ;
     owl:sameAs lab5:santiago .
 
-lab5:sao_paulo a _:ub1bL150C26,
-        _:ub1bL184C49,
+lab5:sao_paulo a _:ub10bL150C26,
+        _:ub10bL184C49,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -3161,8 +3161,8 @@ lab5:sao_paulo a _:ub1bL150C26,
     lab5:population "22046000"^^xsd:long ;
     owl:sameAs lab5:sao_paulo .
 
-lab5:seoul a _:ub1bL150C26,
-        _:ub1bL174C34,
+lab5:seoul a _:ub10bL150C26,
+        _:ub10bL174C34,
         dbo:City,
         lab5:CapitalCity,
         lab5:City,
@@ -3178,8 +3178,8 @@ lab5:seoul a _:ub1bL150C26,
     lab5:population "21794000"^^xsd:long ;
     owl:sameAs lab5:seoul .
 
-lab5:shanghai a _:ub1bL150C26,
-        _:ub1bL184C49,
+lab5:shanghai a _:ub10bL150C26,
+        _:ub10bL184C49,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -3197,8 +3197,8 @@ lab5:shanghai a _:ub1bL150C26,
     lab5:population "22120000"^^xsd:long ;
     owl:sameAs lab5:shanghai .
 
-lab5:shangrao a _:ub1bL150C26,
-        _:ub1bL194C50,
+lab5:shangrao a _:ub10bL150C26,
+        _:ub10bL194C50,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -3216,8 +3216,8 @@ lab5:shangrao a _:ub1bL150C26,
     lab5:population "6579714"^^xsd:long ;
     owl:sameAs lab5:shangrao .
 
-lab5:shenyang a _:ub1bL150C26,
-        _:ub1bL184C49,
+lab5:shenyang a _:ub10bL150C26,
+        _:ub10bL184C49,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -3235,8 +3235,8 @@ lab5:shenyang a _:ub1bL150C26,
     lab5:population "7105000"^^xsd:long ;
     owl:sameAs lab5:shenyang .
 
-lab5:shenzhen a _:ub1bL150C26,
-        _:ub1bL194C50,
+lab5:shenzhen a _:ub10bL150C26,
+        _:ub10bL194C50,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -3254,8 +3254,8 @@ lab5:shenzhen a _:ub1bL150C26,
     lab5:population "15929000"^^xsd:long ;
     owl:sameAs lab5:shenzhen .
 
-lab5:shijiazhuang a _:ub1bL150C26,
-        _:ub1bL184C49,
+lab5:shijiazhuang a _:ub10bL150C26,
+        _:ub10bL184C49,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -3273,8 +3273,8 @@ lab5:shijiazhuang a _:ub1bL150C26,
     lab5:population "10784600"^^xsd:long ;
     owl:sameAs lab5:shijiazhuang .
 
-lab5:tehran a _:ub1bL150C26,
-        _:ub1bL174C34,
+lab5:tehran a _:ub10bL150C26,
+        _:ub10bL174C34,
         dbo:City,
         lab5:CapitalCity,
         lab5:City,
@@ -3290,8 +3290,8 @@ lab5:tehran a _:ub1bL150C26,
     lab5:population "13633000"^^xsd:long ;
     owl:sameAs lab5:tehran .
 
-lab5:tianjin a _:ub1bL150C26,
-        _:ub1bL184C49,
+lab5:tianjin a _:ub10bL150C26,
+        _:ub10bL184C49,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -3309,8 +3309,8 @@ lab5:tianjin a _:ub1bL150C26,
     lab5:population "10800000"^^xsd:long ;
     owl:sameAs lab5:tianjin .
 
-lab5:tokyo a _:ub1bL150C26,
-        _:ub1bL174C34,
+lab5:tokyo a _:ub10bL150C26,
+        _:ub10bL174C34,
         dbo:City,
         lab5:CapitalCity,
         lab5:City,
@@ -3326,8 +3326,8 @@ lab5:tokyo a _:ub1bL150C26,
     lab5:population "37977000"^^xsd:long ;
     owl:sameAs lab5:tokyo .
 
-lab5:tongshan a _:ub1bL150C26,
-        _:ub1bL194C50,
+lab5:tongshan a _:ub10bL150C26,
+        _:ub10bL194C50,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -3345,8 +3345,8 @@ lab5:tongshan a _:ub1bL150C26,
     lab5:population "8669000"^^xsd:long ;
     owl:sameAs lab5:tongshan .
 
-lab5:wuhan a _:ub1bL150C26,
-        _:ub1bL184C49,
+lab5:wuhan a _:ub10bL150C26,
+        _:ub10bL184C49,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -3364,8 +3364,8 @@ lab5:wuhan a _:ub1bL150C26,
     lab5:population "8962000"^^xsd:long ;
     owl:sameAs lab5:wuhan .
 
-<http://www.semanticweb.org/ernesto/in3067-inm713/lab5/xi'an> a _:ub1bL150C26,
-        _:ub1bL184C49,
+<http://www.semanticweb.org/ernesto/in3067-inm713/lab5/xi'an> a _:ub10bL150C26,
+        _:ub10bL184C49,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -3383,8 +3383,8 @@ lab5:wuhan a _:ub1bL150C26,
     lab5:population "7135000"^^xsd:long ;
     owl:sameAs <http://www.semanticweb.org/ernesto/in3067-inm713/lab5/xi'an> .
 
-lab5:yancheng a _:ub1bL150C26,
-        _:ub1bL194C50,
+lab5:yancheng a _:ub10bL150C26,
+        _:ub10bL194C50,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -3402,8 +3402,8 @@ lab5:yancheng a _:ub1bL150C26,
     lab5:population "7260240"^^xsd:long ;
     owl:sameAs lab5:yancheng .
 
-lab5:yichun a _:ub1bL150C26,
-        _:ub1bL194C50,
+lab5:yichun a _:ub10bL150C26,
+        _:ub10bL194C50,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -3421,8 +3421,8 @@ lab5:yichun a _:ub1bL150C26,
     lab5:population "6048700"^^xsd:long ;
     owl:sameAs lab5:yichun .
 
-lab5:zhanjiang a _:ub1bL150C26,
-        _:ub1bL194C50,
+lab5:zhanjiang a _:ub10bL150C26,
+        _:ub10bL194C50,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -3440,8 +3440,8 @@ lab5:zhanjiang a _:ub1bL150C26,
     lab5:population "6900000"^^xsd:long ;
     owl:sameAs lab5:zhanjiang .
 
-lab5:zhengzhou a _:ub1bL150C26,
-        _:ub1bL184C49,
+lab5:zhengzhou a _:ub10bL150C26,
+        _:ub10bL184C49,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -3459,8 +3459,8 @@ lab5:zhengzhou a _:ub1bL150C26,
     lab5:population "7005000"^^xsd:long ;
     owl:sameAs lab5:zhengzhou .
 
-lab5:zhoukou a _:ub1bL150C26,
-        _:ub1bL194C50,
+lab5:zhoukou a _:ub10bL150C26,
+        _:ub10bL194C50,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:City,
@@ -3479,11 +3479,11 @@ lab5:zhoukou a _:ub1bL150C26,
     owl:sameAs lab5:zhoukou .
 
 owl:Nothing a owl:Class ;
-    rdfs:subClassOf _:ub1bL150C26,
-        _:ub1bL159C29,
-        _:ub1bL174C34,
-        _:ub1bL184C49,
-        _:ub1bL194C50,
+    rdfs:subClassOf _:ub10bL150C26,
+        _:ub10bL159C29,
+        _:ub10bL174C34,
+        _:ub10bL184C49,
+        _:ub10bL194C50,
         dbo:City,
         dbo:Country,
         lab5:AdminCapitalCity,
@@ -3749,11 +3749,11 @@ owl:Nothing a owl:Class ;
 dbo:capital a owl:FunctionalProperty,
         owl:ObjectProperty ;
     rdfs:label "has capital" ;
-    rdfs:domain _:ub1bL159C29,
+    rdfs:domain _:ub10bL159C29,
         dbo:Country,
         owl:Thing ;
-    rdfs:range _:ub1bL150C26,
-        _:ub1bL174C34,
+    rdfs:range _:ub10bL150C26,
+        _:ub10bL174C34,
         dbo:City,
         lab5:CapitalCity,
         owl:Thing ;
@@ -3770,7 +3770,7 @@ lab5:admin_name a owl:DatatypeProperty ;
     owl:equivalentProperty lab5:admin_name ;
     owl:sameAs lab5:admin_name .
 
-lab5:angola a _:ub1bL159C29,
+lab5:angola a _:ub10bL159C29,
         dbo:Country,
         lab5:Country,
         owl:Thing ;
@@ -3781,7 +3781,7 @@ lab5:angola a _:ub1bL159C29,
     lab5:name "Angola"^^xsd:string ;
     owl:sameAs lab5:angola .
 
-lab5:argentina a _:ub1bL159C29,
+lab5:argentina a _:ub10bL159C29,
         dbo:Country,
         lab5:Country,
         owl:Thing ;
@@ -3792,7 +3792,7 @@ lab5:argentina a _:ub1bL159C29,
     lab5:name "Argentina"^^xsd:string ;
     owl:sameAs lab5:argentina .
 
-lab5:bangladesh a _:ub1bL159C29,
+lab5:bangladesh a _:ub10bL159C29,
         dbo:Country,
         lab5:Country,
         owl:Thing ;
@@ -3803,7 +3803,7 @@ lab5:bangladesh a _:ub1bL159C29,
     lab5:name "Bangladesh"^^xsd:string ;
     owl:sameAs lab5:bangladesh .
 
-lab5:chile a _:ub1bL159C29,
+lab5:chile a _:ub10bL159C29,
         dbo:Country,
         lab5:Country,
         owl:Thing ;
@@ -3814,7 +3814,7 @@ lab5:chile a _:ub1bL159C29,
     lab5:name "Chile"^^xsd:string ;
     owl:sameAs lab5:chile .
 
-lab5:colombia a _:ub1bL159C29,
+lab5:colombia a _:ub10bL159C29,
         dbo:Country,
         lab5:Country,
         owl:Thing ;
@@ -3825,7 +3825,7 @@ lab5:colombia a _:ub1bL159C29,
     lab5:name "Colombia"^^xsd:string ;
     owl:sameAs lab5:colombia .
 
-<http://www.semanticweb.org/ernesto/in3067-inm713/lab5/congo_(kinshasa)> a _:ub1bL159C29,
+<http://www.semanticweb.org/ernesto/in3067-inm713/lab5/congo_(kinshasa)> a _:ub10bL159C29,
         dbo:Country,
         lab5:Country,
         owl:Thing ;
@@ -3836,7 +3836,7 @@ lab5:colombia a _:ub1bL159C29,
     lab5:name "Congo (Kinshasa)"^^xsd:string ;
     owl:sameAs <http://www.semanticweb.org/ernesto/in3067-inm713/lab5/congo_(kinshasa)> .
 
-lab5:egypt a _:ub1bL159C29,
+lab5:egypt a _:ub10bL159C29,
         dbo:Country,
         lab5:Country,
         owl:Thing ;
@@ -3847,7 +3847,7 @@ lab5:egypt a _:ub1bL159C29,
     lab5:name "Egypt"^^xsd:string ;
     owl:sameAs lab5:egypt .
 
-lab5:france a _:ub1bL159C29,
+lab5:france a _:ub10bL159C29,
         dbo:Country,
         lab5:Country,
         owl:Thing ;
@@ -3858,8 +3858,8 @@ lab5:france a _:ub1bL159C29,
     lab5:name "France"^^xsd:string ;
     owl:sameAs lab5:france .
 
-lab5:hong_kong a _:ub1bL150C26,
-        _:ub1bL159C29,
+lab5:hong_kong a _:ub10bL150C26,
+        _:ub10bL159C29,
         dbo:City,
         dbo:Country,
         lab5:City,
@@ -3877,7 +3877,7 @@ lab5:hong_kong a _:ub1bL150C26,
     lab5:population "7347000"^^xsd:long ;
     owl:sameAs lab5:hong_kong .
 
-lab5:indonesia a _:ub1bL159C29,
+lab5:indonesia a _:ub10bL159C29,
         dbo:Country,
         lab5:Country,
         owl:Thing ;
@@ -3888,7 +3888,7 @@ lab5:indonesia a _:ub1bL159C29,
     lab5:name "Indonesia"^^xsd:string ;
     owl:sameAs lab5:indonesia .
 
-lab5:iran a _:ub1bL159C29,
+lab5:iran a _:ub10bL159C29,
         dbo:Country,
         lab5:Country,
         owl:Thing ;
@@ -3900,13 +3900,13 @@ lab5:iran a _:ub1bL159C29,
     owl:sameAs lab5:iran .
 
 lab5:isFirstLevelAdminCapitalOf a owl:ObjectProperty ;
-    rdfs:domain _:ub1bL150C26,
-        _:ub1bL184C49,
+    rdfs:domain _:ub10bL150C26,
+        _:ub10bL184C49,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:FirstLevelAdminCapitalCity,
         owl:Thing ;
-    rdfs:range _:ub1bL159C29,
+    rdfs:range _:ub10bL159C29,
         dbo:Country,
         owl:Thing ;
     rdfs:subPropertyOf lab5:cityIsLocatedIn,
@@ -3917,13 +3917,13 @@ lab5:isFirstLevelAdminCapitalOf a owl:ObjectProperty ;
     owl:sameAs lab5:isFirstLevelAdminCapitalOf .
 
 lab5:isSecondLevelAdminCapitalOf a owl:ObjectProperty ;
-    rdfs:domain _:ub1bL150C26,
-        _:ub1bL194C50,
+    rdfs:domain _:ub10bL150C26,
+        _:ub10bL194C50,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:SecondLevelAdminCapitalCity,
         owl:Thing ;
-    rdfs:range _:ub1bL159C29,
+    rdfs:range _:ub10bL159C29,
         dbo:Country,
         owl:Thing ;
     rdfs:subPropertyOf lab5:cityIsLocatedIn,
@@ -3933,7 +3933,7 @@ lab5:isSecondLevelAdminCapitalOf a owl:ObjectProperty ;
     owl:equivalentProperty lab5:isSecondLevelAdminCapitalOf ;
     owl:sameAs lab5:isSecondLevelAdminCapitalOf .
 
-<http://www.semanticweb.org/ernesto/in3067-inm713/lab5/korea,_south> a _:ub1bL159C29,
+<http://www.semanticweb.org/ernesto/in3067-inm713/lab5/korea,_south> a _:ub10bL159C29,
         dbo:Country,
         lab5:Country,
         owl:Thing ;
@@ -3944,7 +3944,7 @@ lab5:isSecondLevelAdminCapitalOf a owl:ObjectProperty ;
     lab5:name "Korea, South"^^xsd:string ;
     owl:sameAs <http://www.semanticweb.org/ernesto/in3067-inm713/lab5/korea,_south> .
 
-lab5:malaysia a _:ub1bL159C29,
+lab5:malaysia a _:ub10bL159C29,
         dbo:Country,
         lab5:Country,
         owl:Thing ;
@@ -3955,7 +3955,7 @@ lab5:malaysia a _:ub1bL159C29,
     lab5:name "Malaysia"^^xsd:string ;
     owl:sameAs lab5:malaysia .
 
-lab5:mexico a _:ub1bL159C29,
+lab5:mexico a _:ub10bL159C29,
         dbo:Country,
         lab5:Country,
         owl:Thing ;
@@ -3966,7 +3966,7 @@ lab5:mexico a _:ub1bL159C29,
     lab5:name "Mexico"^^xsd:string ;
     owl:sameAs lab5:mexico .
 
-lab5:peru a _:ub1bL159C29,
+lab5:peru a _:ub10bL159C29,
         dbo:Country,
         lab5:Country,
         owl:Thing ;
@@ -3977,7 +3977,7 @@ lab5:peru a _:ub1bL159C29,
     lab5:name "Peru"^^xsd:string ;
     owl:sameAs lab5:peru .
 
-lab5:philippines a _:ub1bL159C29,
+lab5:philippines a _:ub10bL159C29,
         dbo:Country,
         lab5:Country,
         owl:Thing ;
@@ -3988,7 +3988,7 @@ lab5:philippines a _:ub1bL159C29,
     lab5:name "Philippines"^^xsd:string ;
     owl:sameAs lab5:philippines .
 
-lab5:russia a _:ub1bL159C29,
+lab5:russia a _:ub10bL159C29,
         dbo:Country,
         lab5:Country,
         owl:Thing ;
@@ -3999,7 +3999,7 @@ lab5:russia a _:ub1bL159C29,
     lab5:name "Russia"^^xsd:string ;
     owl:sameAs lab5:russia .
 
-lab5:saudi_arabia a _:ub1bL159C29,
+lab5:saudi_arabia a _:ub10bL159C29,
         dbo:Country,
         lab5:Country,
         owl:Thing ;
@@ -4010,7 +4010,7 @@ lab5:saudi_arabia a _:ub1bL159C29,
     lab5:name "Saudi Arabia"^^xsd:string ;
     owl:sameAs lab5:saudi_arabia .
 
-lab5:sudan a _:ub1bL159C29,
+lab5:sudan a _:ub10bL159C29,
         dbo:Country,
         lab5:Country,
         owl:Thing ;
@@ -4021,7 +4021,7 @@ lab5:sudan a _:ub1bL159C29,
     lab5:name "Sudan"^^xsd:string ;
     owl:sameAs lab5:sudan .
 
-lab5:tanzania a _:ub1bL159C29,
+lab5:tanzania a _:ub10bL159C29,
         dbo:Country,
         lab5:Country,
         owl:Thing ;
@@ -4032,7 +4032,7 @@ lab5:tanzania a _:ub1bL159C29,
     lab5:name "Tanzania"^^xsd:string ;
     owl:sameAs lab5:tanzania .
 
-lab5:thailand a _:ub1bL159C29,
+lab5:thailand a _:ub10bL159C29,
         dbo:Country,
         lab5:Country,
         owl:Thing ;
@@ -4112,12 +4112,12 @@ owl:NamedIndividual owl:sameAs owl:NamedIndividual .
 
 lab5:isCapitalOf a owl:FunctionalProperty,
         owl:ObjectProperty ;
-    rdfs:domain _:ub1bL150C26,
-        _:ub1bL174C34,
+    rdfs:domain _:ub10bL150C26,
+        _:ub10bL174C34,
         dbo:City,
         lab5:CapitalCity,
         owl:Thing ;
-    rdfs:range _:ub1bL159C29,
+    rdfs:range _:ub10bL159C29,
         dbo:Country,
         owl:Thing ;
     rdfs:subPropertyOf lab5:cityIsLocatedIn,
@@ -4126,7 +4126,7 @@ lab5:isCapitalOf a owl:FunctionalProperty,
     owl:equivalentProperty lab5:isCapitalOf ;
     owl:sameAs lab5:isCapitalOf .
 
-lab5:turkey a _:ub1bL159C29,
+lab5:turkey a _:ub10bL159C29,
         dbo:Country,
         lab5:Country,
         owl:Thing ;
@@ -4141,10 +4141,10 @@ lab5:turkey a _:ub1bL159C29,
     owl:sameAs "Jiangsu"^^xsd:string .
 
 lab5:hasCity a owl:ObjectProperty ;
-    rdfs:domain _:ub1bL159C29,
+    rdfs:domain _:ub10bL159C29,
         dbo:Country,
         owl:Thing ;
-    rdfs:range _:ub1bL150C26,
+    rdfs:range _:ub10bL150C26,
         dbo:City,
         owl:Thing ;
     rdfs:subPropertyOf lab5:hasCity ;
@@ -4152,11 +4152,11 @@ lab5:hasCity a owl:ObjectProperty ;
     owl:sameAs lab5:hasCity .
 
 lab5:isAdminCapitalOf a owl:ObjectProperty ;
-    rdfs:domain _:ub1bL150C26,
+    rdfs:domain _:ub10bL150C26,
         dbo:City,
         lab5:AdminCapitalCity,
         owl:Thing ;
-    rdfs:range _:ub1bL159C29,
+    rdfs:range _:ub10bL159C29,
         dbo:Country,
         owl:Thing ;
     rdfs:subPropertyOf lab5:cityIsLocatedIn,
@@ -4165,7 +4165,7 @@ lab5:isAdminCapitalOf a owl:ObjectProperty ;
     owl:equivalentProperty lab5:isAdminCapitalOf ;
     owl:sameAs lab5:isAdminCapitalOf .
 
-lab5:united_kingdom a _:ub1bL159C29,
+lab5:united_kingdom a _:ub10bL159C29,
         dbo:Country,
         lab5:Country,
         owl:NamedIndividual,
@@ -4194,10 +4194,10 @@ owl:Restriction owl:sameAs owl:Restriction .
 
 lab5:cityIsLocatedIn a owl:FunctionalProperty,
         owl:ObjectProperty ;
-    rdfs:domain _:ub1bL150C26,
+    rdfs:domain _:ub10bL150C26,
         dbo:City,
         owl:Thing ;
-    rdfs:range _:ub1bL159C29,
+    rdfs:range _:ub10bL159C29,
         dbo:Country,
         owl:Thing ;
     rdfs:subPropertyOf lab5:cityIsLocatedIn,
@@ -4211,7 +4211,7 @@ lab5:isLocatedIn a owl:ObjectProperty ;
     owl:equivalentProperty lab5:isLocatedIn ;
     owl:sameAs lab5:isLocatedIn .
 
-lab5:vietnam a _:ub1bL159C29,
+lab5:vietnam a _:ub10bL159C29,
         dbo:Country,
         lab5:Country,
         owl:Thing ;
@@ -4224,7 +4224,7 @@ lab5:vietnam a _:ub1bL159C29,
     lab5:name "Vietnam"^^xsd:string ;
     owl:sameAs lab5:vietnam .
 
-lab5:brazil a _:ub1bL159C29,
+lab5:brazil a _:ub10bL159C29,
         dbo:Country,
         lab5:Country,
         owl:Thing ;
@@ -4237,7 +4237,7 @@ lab5:brazil a _:ub1bL159C29,
     lab5:name "Brazil"^^xsd:string ;
     owl:sameAs lab5:brazil .
 
-lab5:nigeria a _:ub1bL159C29,
+lab5:nigeria a _:ub10bL159C29,
         dbo:Country,
         lab5:Country,
         owl:Thing ;
@@ -4250,7 +4250,7 @@ lab5:nigeria a _:ub1bL159C29,
     lab5:name "Nigeria"^^xsd:string ;
     owl:sameAs lab5:nigeria .
 
-lab5:pakistan a _:ub1bL159C29,
+lab5:pakistan a _:ub10bL159C29,
         dbo:Country,
         lab5:Country,
         owl:Thing ;
@@ -4263,7 +4263,7 @@ lab5:pakistan a _:ub1bL159C29,
     lab5:name "Pakistan"^^xsd:string ;
     owl:sameAs lab5:pakistan .
 
-lab5:united_states a _:ub1bL159C29,
+lab5:united_states a _:ub10bL159C29,
         dbo:Country,
         lab5:Country,
         owl:Thing ;
@@ -4284,7 +4284,7 @@ owl:ObjectProperty owl:sameAs owl:ObjectProperty .
 
 owl:AnnotationProperty owl:sameAs owl:AnnotationProperty .
 
-lab5:japan a _:ub1bL159C29,
+lab5:japan a _:ub10bL159C29,
         dbo:Country,
         lab5:Country,
         owl:Thing ;
@@ -4301,8 +4301,8 @@ lab5:japan a _:ub1bL159C29,
 
 lab5:SecondLevelAdminCapitalCity a owl:Class ;
     rdfs:comment "minor - lower-level admin capital (e.g. Fayetteville, AR)" ;
-    rdfs:subClassOf _:ub1bL150C26,
-        _:ub1bL194C50,
+    rdfs:subClassOf _:ub10bL150C26,
+        _:ub10bL194C50,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:SecondLevelAdminCapitalCity,
@@ -4312,15 +4312,15 @@ lab5:SecondLevelAdminCapitalCity a owl:Class ;
 
 lab5:CapitalCity a owl:Class ;
     rdfs:comment "primary - country's capital (e.g. Washington D.C.)" ;
-    rdfs:subClassOf _:ub1bL150C26,
-        _:ub1bL174C34,
+    rdfs:subClassOf _:ub10bL150C26,
+        _:ub10bL174C34,
         dbo:City,
         lab5:CapitalCity,
         owl:Thing ;
     owl:equivalentClass lab5:CapitalCity ;
     owl:sameAs lab5:CapitalCity .
 
-lab5:india a _:ub1bL159C29,
+lab5:india a _:ub10bL159C29,
         dbo:Country,
         lab5:Country,
         owl:Thing ;
@@ -4348,8 +4348,8 @@ lab5:Country owl:sameAs lab5:Country .
 
 lab5:FirstLevelAdminCapitalCity a owl:Class ;
     rdfs:comment "admin - first-level admin capital (e.g. Little Rock, AR)" ;
-    rdfs:subClassOf _:ub1bL150C26,
-        _:ub1bL184C49,
+    rdfs:subClassOf _:ub10bL150C26,
+        _:ub10bL184C49,
         dbo:City,
         lab5:AdminCapitalCity,
         lab5:FirstLevelAdminCapitalCity,
@@ -4361,14 +4361,14 @@ rdfs:Datatype owl:sameAs rdfs:Datatype .
 
 dbo:Country a owl:Class ;
     rdfs:label "Country"@en ;
-    rdfs:subClassOf _:ub1bL159C29,
+    rdfs:subClassOf _:ub10bL159C29,
         dbo:Country,
         owl:Thing ;
     owl:equivalentClass dbo:Country ;
     owl:sameAs dbo:Country .
 
 lab5:AdminCapitalCity a owl:Class ;
-    rdfs:subClassOf _:ub1bL150C26,
+    rdfs:subClassOf _:ub10bL150C26,
         dbo:City,
         lab5:AdminCapitalCity,
         owl:Thing ;
@@ -4390,7 +4390,7 @@ xsd:long a rdfs:Datatype ;
 
 dbo:City a owl:Class ;
     rdfs:label "City"@en ;
-    rdfs:subClassOf _:ub1bL150C26,
+    rdfs:subClassOf _:ub10bL150C26,
         dbo:City,
         owl:Thing ;
     owl:equivalentClass dbo:City ;
@@ -4401,7 +4401,7 @@ owl:Thing a owl:Class ;
     owl:equivalentClass owl:Thing ;
     owl:sameAs owl:Thing .
 
-lab5:china a _:ub1bL159C29,
+lab5:china a _:ub10bL159C29,
         dbo:Country,
         lab5:Country,
         owl:Thing ;
@@ -4506,41 +4506,41 @@ xsd:float a rdfs:Datatype ;
 xsd:string a rdfs:Datatype ;
     owl:sameAs xsd:string .
 
-_:ub1bL194C50 a owl:Restriction ;
-    rdfs:subClassOf _:ub1bL150C26,
-        _:ub1bL194C50 ;
-    owl:equivalentClass _:ub1bL194C50 ;
+_:ub10bL194C50 a owl:Restriction ;
+    rdfs:subClassOf _:ub10bL150C26,
+        _:ub10bL194C50 ;
+    owl:equivalentClass _:ub10bL194C50 ;
     owl:onProperty lab5:isSecondLevelAdminCapitalOf ;
-    owl:sameAs _:ub1bL194C50 ;
+    owl:sameAs _:ub10bL194C50 ;
     owl:someValuesFrom dbo:Country .
 
-_:ub1bL174C34 a owl:Restriction ;
-    rdfs:subClassOf _:ub1bL150C26,
-        _:ub1bL174C34 ;
-    owl:equivalentClass _:ub1bL174C34 ;
+_:ub10bL174C34 a owl:Restriction ;
+    rdfs:subClassOf _:ub10bL150C26,
+        _:ub10bL174C34 ;
+    owl:equivalentClass _:ub10bL174C34 ;
     owl:onProperty lab5:isCapitalOf ;
-    owl:sameAs _:ub1bL174C34 ;
+    owl:sameAs _:ub10bL174C34 ;
     owl:someValuesFrom dbo:Country .
 
-_:ub1bL184C49 a owl:Restriction ;
-    rdfs:subClassOf _:ub1bL150C26,
-        _:ub1bL184C49 ;
-    owl:equivalentClass _:ub1bL184C49 ;
+_:ub10bL184C49 a owl:Restriction ;
+    rdfs:subClassOf _:ub10bL150C26,
+        _:ub10bL184C49 ;
+    owl:equivalentClass _:ub10bL184C49 ;
     owl:onProperty lab5:isFirstLevelAdminCapitalOf ;
-    owl:sameAs _:ub1bL184C49 ;
+    owl:sameAs _:ub10bL184C49 ;
     owl:someValuesFrom dbo:Country .
 
-_:ub1bL159C29 a owl:Restriction ;
-    rdfs:subClassOf _:ub1bL159C29 ;
-    owl:equivalentClass _:ub1bL159C29 ;
+_:ub10bL159C29 a owl:Restriction ;
+    rdfs:subClassOf _:ub10bL159C29 ;
+    owl:equivalentClass _:ub10bL159C29 ;
     owl:onProperty dbo:capital ;
-    owl:sameAs _:ub1bL159C29 ;
+    owl:sameAs _:ub10bL159C29 ;
     owl:someValuesFrom dbo:City .
 
-_:ub1bL150C26 a owl:Restriction ;
-    rdfs:subClassOf _:ub1bL150C26 ;
-    owl:equivalentClass _:ub1bL150C26 ;
+_:ub10bL150C26 a owl:Restriction ;
+    rdfs:subClassOf _:ub10bL150C26 ;
+    owl:equivalentClass _:ub10bL150C26 ;
     owl:onProperty lab5:cityIsLocatedIn ;
-    owl:sameAs _:ub1bL150C26 ;
+    owl:sameAs _:ub10bL150C26 ;
     owl:someValuesFrom dbo:Country .
 
