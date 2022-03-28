@@ -7,6 +7,7 @@
 - **Laboratory 5**: Exposing Tabular Data as an RDF-based Knowledge Graph
 - **Laboratory 6**: Reasoning with RDFS Semantics and OWL 2 RL
 - **Laboratory 7**: SPARQL 1.1 and GraphDB
+- **Laboratory 8**: Ontology Alignment
 
 
 ### Key libraries
