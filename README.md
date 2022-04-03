@@ -8,6 +8,8 @@
 - **Laboratory 6**: Reasoning with RDFS Semantics and OWL 2 RL
 - **Laboratory 7**: SPARQL 1.1 and GraphDB
 - **Laboratory 8**: Ontology Alignment
+- **Laboratory 9**: Ontology Embeddings with OWL2Vec*
+
 
 
 ### Key libraries
@@ -16,5 +18,5 @@
 - [RDFlib](https://rdflib.readthedocs.io/en/stable/)
 - [Pandas](https://pandas.pydata.org/)
 - [Jupyter notebook](https://jupyter-notebook.readthedocs.io/en/latest/)
-
+- [OWL2Vec*](https://github.com/KRR-Oxford/OWL2Vec-Star)
 

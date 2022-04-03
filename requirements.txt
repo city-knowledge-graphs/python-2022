@@ -1,6 +1,6 @@
 #Jupyter notebook
 jupyter==1.0.0
-#Remote SPARQL accedd
+#Remote SPARQL access
 SPARQLWrapper==1.8.5
 #Ontology access
 Owlready2==0.36
