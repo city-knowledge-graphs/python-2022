@@ -19,7 +19,12 @@ class SPARQLEndpoint(object):
         Constructor
         '''
         #"http://dbpedia.org/sparql"
-        self.sparqlw = SPARQLWrapper(endpoint_url)
+        #Solution when getting 403 errors:
+        #https://www.mediawiki.org/wiki/Topic:V1zau9rqd4ritpug
+        self.sparqlw = SPARQLWrapper(endpoint_url,      
+                    agent='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36')
+        
+        
         
         self.sparqlw.setReturnFormat(JSON)
         
@@ -209,9 +214,10 @@ class SPARQLEndpoint(object):
             
             return self.sparqlw.query().convert()
         
-        except:
+        except Exception as e:
             
             print("Query '%s' failed. Attempts: %s" % (query, str(attempts)))
+            print("\t" + str(e))
             time.sleep(60) #to avoid limit of calls, sleep 60s
             attempts-=1
             if attempts>0:
@@ -555,8 +561,9 @@ class WikidataEndpoint(SPARQLEndpoint):
         
         
     def getEndpoint(self):
-        return "https://query.wikidata.org/sparql"
-
+        #return "https://query.wikidata.org/sparql"
+        return "https://query.wikidata.org/bigdata/namespace/wdq/sparql"
+        
 
     def createSPARQLEntitiesForClass(self, class_uri, offset=0, limit=1000):
             
